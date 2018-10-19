@@ -1,5 +1,9 @@
 This is my first sentence. 
 
+<<<<<<< HEAD
 This is DOG two.
+=======
+This is CAT two.
+>>>>>>> mybranch
 
 This is sentence three.
